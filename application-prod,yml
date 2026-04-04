@@ -1,6 +1,8 @@
 spring:
   application:
     name: Prod Profile
+author:
+  AbdulGaffar
 eureka:
   instance:
     prefer-ip-address: true
