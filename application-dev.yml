@@ -1,6 +1,7 @@
 spring:
   application:
     name: Dev Profile
+author: Adi Thomas
 eureka:
   instance:
     prefer-ip-address: true
